@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_intcol" label="intcol" language="en" table="u_tab1_gbl_app1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_intcol</element>
+            <help/>
+            <hint/>
+            <label>intcol</label>
+            <language>en</language>
+            <name>u_tab1_gbl_app1</name>
+            <plural>intcols</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-14 19:38:56</sys_created_on>
+            <sys_id>86e71f565300201071a3ddeeff7b12cf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>intcol</sys_name>
+            <sys_package display_value="gbl_app1" source="e7afe16a247f1010f877a64f9297af61">e7afe16a247f1010f877a64f9297af61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="steal_global">68185f565300201071a3ddeeff7b12ff</sys_scope>
+            <sys_update_name>sys_documentation_u_tab1_gbl_app1_u_intcol_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-26 21:46:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="steal_global">68185f565300201071a3ddeeff7b12ff</claim_owner_scope>
+        <claim_timestamp>17566e03da10000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_tab1_gbl_app1_u_intcol_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>steal_global</previous_claim_name>
+        <previous_claim_scope>68185f565300201071a3ddeeff7b12ff</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-26 21:46:13</sys_created_on>
+        <sys_id>d1200c2a5340201071a3ddeeff7b1261</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-26 21:46:13</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="steal_global">68185f565300201071a3ddeeff7b12ff</claim_owner_scope>
+        <claim_timestamp>175664123c90000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_u_tab1_gbl_app1_u_intcol_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>gbl_app1</previous_claim_name>
+        <previous_claim_scope>e7afe16a247f1010f877a64f9297af61</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-26 21:46:13</sys_created_on>
+        <sys_id>95200c2a5340201071a3ddeeff7b1261</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-26 21:46:13</sys_updated_on>
+    </sys_claim>
+</record_update>
